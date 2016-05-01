@@ -1,0 +1,61 @@
+#contenedor{ width: 1000px;
+	         height: auto;
+	         margin: auto;
+	         position: relative;
+	         background: rgba(255, 255, 255, 3, 5);
+	         border: 10px }
+
+body { background-image: url(../imagen/fondo.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+        height: auto;
+      width: auto;
+       }
+
+h1 {   font-family: 'Shadows into light'
+	   margin-left: 10px;
+	   font-size: 60px;
+	   text-align: center; }
+
+header { text-align: auto;
+	     width: auto;
+	     height: auto;
+	     background: rgba(255, 255, 255, 3, 5); }
+
+nav { width: auto;
+      height:auto;
+
+      background: rgba(255, 255, 255, 3, 5);
+      text-align: center;
+      color:white; }
+
+
+body { background: rgba(255, 255, 255, 3, 5); }
+
+
+ul { position: center;
+     font-family: Arial;
+     font-size:20px;
+     text-decoration: none;
+     padding: 10px; }
+
+
+     a {color:#FFFFFF;
+   text-decoration:none; 
+   }
+
+ 
+   }
+
+iframe
+{
+
+width: 100%;
+height: 20%;
+
+}
+
+
+
+
+body {oveflow-x: hidden }

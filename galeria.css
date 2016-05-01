@@ -1,0 +1,40 @@
+body { font-size: 15px;
+       font-family: helvetica, arial, sans-serif;
+       padding: 4em;
+      text-align: center;
+      height: 100%;
+       width: 100%;  }
+
+
+header h1{  font-size: 25px;
+            text-shadow: 1.5px 1px 1px rgba(0,0,0,0.5); }
+
+nav { padding: 20px;
+      z-index: 20;
+      top: 0px;
+       position: relative; }
+
+nav li { display: inline;
+         padding-right: 1em;
+         color:white;
+          }
+
+
+ 
+
+#visor
+{
+position: center;
+height: 62%;
+width: 40%;
+
+}
+
+a {color:#FFFFFF;
+   text-decoration:none; 
+   }
+
+
+
+ 
+
